@@ -9,4 +9,4 @@ Projet de fouille de texte (Java, Eclipse).
 2. Ajouter SAFAR_v2.jar dans lib/ puis dans le Build Path.
 3. Placer le corpus dans corpus_classes/immobilier et corpus_classes/statut_personnel.
 4. Lancer la classe Classification.
-5. 
+5. Les résultats s’affichent dans la console
